@@ -1,3 +1,5 @@
+// hour, minute and second calculation logic for clock hands  rotations
+
 //12 hours = 360 deg
 // 1 hour 360/12 = 30
 // h hour = 30h + m/2
