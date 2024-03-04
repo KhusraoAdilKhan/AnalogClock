@@ -36,3 +36,9 @@ function displayTime(){
 }
 
 setInterval(displayTime, 1000);
+function gotoStopWatch(){
+    window.location.href = "C://KhusraoAdil//LEARN//Projects//AnalogClock//stopwatch.html"
+}
+function gotoAnalogClock(){
+    window.location.href = "C://KhusraoAdil//LEARN//Projects//AnalogClock//index.html"
+}
