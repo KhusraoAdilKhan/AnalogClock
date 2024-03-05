@@ -35,6 +35,12 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 90vh;
+    flex-direction: column;
+}
+.heading{
+    color: #ffffff;
+    padding: 24px;
+    margin: 24px;
 }
 .clock{
     position: relative;

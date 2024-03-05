@@ -46,3 +46,6 @@ function gotoAnalogClock(){
     window.location.assign("index.html")
     //window.location.href = "C://KhusraoAdil//LEARN//Projects//AnalogClock//index.html"
 }
+function gotoCalculator(){
+    window.location.assign("calculator.html")
+}

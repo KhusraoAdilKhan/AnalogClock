@@ -38,6 +38,11 @@ body{
     min-height: 90vh;
     flex-direction: column;
 }
+.heading{
+    color: #ffffff;
+    padding: 24px;
+    margin: 24px;
+}
 .stopwatch {
     background-color: rgba(0, 0, 0, 0.9);
     padding: 20px 24px;

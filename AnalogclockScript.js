@@ -40,3 +40,6 @@ function gotoStopWatch(){
     window.location.assign("stopwatch.html")
     //window.location.href = "C://KhusraoAdil//LEARN//Projects//AnalogClock//stopwatch.html"
 }
+function gotoCalculator(){
+    window.location.assign("calculator.html")
+}
