@@ -43,5 +43,6 @@ function startTimer(){
 }
 
 function gotoAnalogClock(){
-    window.location.href = "C://KhusraoAdil//LEARN//Projects//AnalogClock//index.html"
+    window.location.assign("index.html")
+    //window.location.href = "C://KhusraoAdil//LEARN//Projects//AnalogClock//index.html"
 }
