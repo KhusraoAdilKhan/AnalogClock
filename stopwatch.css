@@ -52,6 +52,14 @@ body{
     font-size: 50px;
     font-weight: 600;
 }
+.timerdisplayheader{
+    font-size: 35px;
+    font-weight: 200;
+    margin: 20px;
+    padding: 8px;
+    border: 1px solid gray;
+    border-radius: 8px;
+}
 .buttons{
     margin: 20px;
 }
